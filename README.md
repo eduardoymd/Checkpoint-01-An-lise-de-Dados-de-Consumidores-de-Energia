@@ -1,12 +1,18 @@
-CHECKPOINT 01 – Data Science e Machine Learning no Python e Orange Data Mining
+# ✅ Checkpoint 01 – Data Science e Machine Learning no Python e Orange Data Mining
 
-NSTRUÇÕES DA ENTREGA:
+Este repositório contém a resolução dos exercícios do **Checkpoint 01** da disciplina de **Data Science e Machine Learning**, utilizando **Python** e a ferramenta **Orange Data Mining**.
 
-A atividade pode ser desenvolvida em grupo.
-Apenas um integrante submete a atividade.
-Enviar apenas o link do repositório.
+---
 
-Total de exercícios: 40
+## 📅 Datas de Liberação dos Exercícios
 
-20 serão disponibilizados na aula de 18/08 (arquivo CP1_001)
-20 serão disponibilizados na aula de 25/08 (arquivo CP1_002)
+- 📁 **CP1_001** – Liberado em: **18/08** – Contém os exercícios de 01 a 20  
+- 📁 **CP1_002** – Liberado em: **25/08** – Contém os exercícios de 21 a 40
+
+### INSTRUÇÕES DA ENTREGA:
+- A atividade pode ser desenvolvida em grupo.
+- Apenas um integrante submete a atividade.
+- Enviar apenas o link do repositório.
+
+
+
