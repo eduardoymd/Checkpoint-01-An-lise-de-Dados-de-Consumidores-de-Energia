@@ -14,5 +14,8 @@ Este repositório contém a resolução dos exercícios do **Checkpoint 01** da 
 - Apenas um integrante submete a atividade.
 - Enviar apenas o link do repositório.
 
-
+### INTEGRANTES
+- NICOLLAS FREI - RM 557647
+- EDUARDO EIKI - RM 554921
+- HEITOR DUARTE - RM 558208
 
